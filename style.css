@@ -8,13 +8,16 @@ main{
     margin-left: 20px;
     margin-right: 20px;
 
-    <style>
+}
+
+<style>
 body {
   background-color: lightblue;
 }
 </style>
 
-}
+
+
 .navbar ul{
     list-style-type: none;
     background-color:  rgb(94, 164, 221);
