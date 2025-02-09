@@ -11,12 +11,6 @@ main{
 }
 
 
-body {
-    background-color: lightblue ;
-
-}
-
-
 
 
 .navbar ul{
@@ -41,6 +35,12 @@ body {
 }
 .navbar li{
      float: left;
+
+}
+
+
+body {
+    background-color: teal ;
 
 }
 
